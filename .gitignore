@@ -1,5 +1,9 @@
-.DS_Store
-.idea
-*.iml
+/target/
+*.jar
+/.settings/
+/.classpath
+/.project
+/.metadata
 out
 /bin/
+/target/
