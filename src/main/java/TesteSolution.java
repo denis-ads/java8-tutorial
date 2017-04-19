@@ -5,6 +5,9 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class TesteSolution {
+    
+    
+    
     public static void main(String args[]) throws Exception {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT */
         Scanner in = new Scanner(System.in);
